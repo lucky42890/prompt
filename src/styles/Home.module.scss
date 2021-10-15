@@ -1,0 +1,14 @@
+.app-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 3rem auto;
+
+  .page-link {
+    display: block;
+    margin-bottom: 0.5rem;
+
+    &:hover {
+      font-weight: 600;
+    }
+  }
+}
